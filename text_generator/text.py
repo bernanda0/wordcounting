@@ -35,7 +35,7 @@ def main():
         print('Invalid file size. Please provide a number value.')
         return
 
-    WORDS_POOL_DIR = "C:\BERNANDA I\PROGRAMMING\#NEW-PROJECT\simpleUtil-python\words.txt"
+    WORDS_POOL_DIR = "words.txt"
     word_pool = load_word_pool(WORDS_POOL_DIR)
 
     random_text = generate_random_text(word_pool, size_mb)
