@@ -4,6 +4,11 @@
   <h1 align="center">Hadoop - Big Data Solutions</h1>
 </div>
 
+Contributors (K1 Group 9)
+1. Bernanda NR
+2. Muhammad Irsyad F 
+3. Daffa Anis F
+4. Prima Salih
 
 Overview:
 -------
